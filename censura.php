@@ -14,6 +14,8 @@ $text_ban = str_replace($word_ban, "***", $text);
 
 ?>
 
+<!-- Inserire MarkUp HTML -->
+
 <div>
 
   <!-- Utilizzo TAG <php> per usare il codice dentro HTML -->
